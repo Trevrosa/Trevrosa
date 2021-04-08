@@ -1,1 +1,1 @@
-[![stats](https://github-readme-stats.vercel.app/api?username=Trevrosa)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://github-readme-stats.vercel.app/api?username=Trevrosa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
