@@ -2,4 +2,4 @@
 <br>
 [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Trevrosa&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/Trevrosa)
 <br>
-[![cat bot](https://github-readme-stats.vercel.app/api/pin/?username=Trevrosa&repo=cat-bot&show_owner=true&theme=tokyonight)](https://github.com/Trevrosa/cat-bot)
+[![cat bot](https://github-readme-stats.vercel.app/api/pin/?username=Trevrosa&repo=trevrosa.dev&show_owner=true&theme=tokyonight)](https://github.com/Trevrosa/trevrosa.dev)
